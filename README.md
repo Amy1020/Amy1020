@@ -2,7 +2,8 @@
 - 👀 I’m interested in 社會學、統計學
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me :
+- yuamy525252@gmail.com
 
 <!---
 Amy1020/Amy1020 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
